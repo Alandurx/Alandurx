@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alandurx
-- 👀 I’m interested in Cinema
+- 👀 I’m interested in cyber security, network security and Frontend development
 - 🌱 I’m currently learning stuff
 
 <!---
